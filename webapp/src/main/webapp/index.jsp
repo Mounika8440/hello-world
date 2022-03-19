@@ -3,6 +3,7 @@
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
   <h1>hi monicaa</h1>
+  <h1>welcome to us bank</h1>
   <div class="container">
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
