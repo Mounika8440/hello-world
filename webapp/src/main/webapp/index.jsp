@@ -3,6 +3,7 @@
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
   <h1>Hi Monica</h1>
+  <h1>Whats upp??</h1>
   <h1>welcome to us bank!!!!</h1>
   <div class="container">
     <label for="uname"><b>Username</b></label>
