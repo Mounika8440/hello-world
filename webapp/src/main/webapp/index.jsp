@@ -1,37 +1,64 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- link css  -->
+    <link rel="stylesheet" href="./style.css">
+
+    <!-- icons  -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+        integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+
+    <title>Login with us</title>
+</head>
+
 <body>
+    <div class=" flex-r container">
+        <div class="flex-r login-wrapper">
+            <div class="login-text">
+                <div class="logo">
+                    <span><i class="fab fa-speakap"></i></span>
+                    <span>Coders</span>
+                </div>
+                <h1>Sign Up</h1>
+                <p>It's not long before you embark on this journey! </p>
 
+                <form class="flex-c">
+                    <div class="input-box">
+                        <span class="label">E-mail</span>
+                        <div class=" flex-r input">
+                            <input type="text" placeholder="name@abc.com">
+                            <i class="fas fa-at"></i>
+                        </div>
+                    </div>
+                    
+                    <div class="input-box">
+                        <span class="label">Password</span>
+                        <div class="flex-r input">
+                            <input type="password" placeholder="8+ (a, A, 1, #)">
+                            <i class="fas fa-lock"></i>
+                        </div>
+                    </div>
 
-<h2>Login Form</h2>
+                    <div class="check">
+                        <input type="checkbox" name="" id="">
+                        <span>I've read and agree with T&C</span>
+                    </div>
 
-    <div class="container">
-      <label for="uname"><b>Username</b></label>
-      <input type="text" placeholder="Enter Username" name="uname" required>
-       
-        <br><br>
+                    <input class="btn" type="submit" value="Create an Account">
+                    <span class="extra-line">
+                        <span>Already have an account?</span>
+                        <a href="#">Sign In</a>
+                    </span>
+                </form>
 
-      <label for="psw"><b>Password</b></label>
-      <input type="password" placeholder="Enter Password" name="psw" required>
-        
-        <br><br>
-        
-      <button type="submit">Login</button>
-      <label>
-        <input type="checkbox" checked="checked" name="remember"> Remember me
-      </label>
+            </div>
+        </div>
     </div>
-    
-    <br><br>
-
-    <div class="container" style="background-color:#f1f1f1">
-      <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-      <span class="psw">Forgot <a href="#">password?</a></span>
-    </div>
-  </form>
-</div>
-
-
-
 </body>
+
 </html>
