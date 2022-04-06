@@ -49,10 +49,10 @@
                         <span>I've read and agree with T&C</span>
                     </div>
 
-                    <input class="btn" type="submit" value="Create an Account">
+                    <input class="btn" type="submit" value="Login">
                     <span class="extra-line">
-                        <span>Already have an account?</span>
-                        <a href="#">Sign In</a>
+                        <span>Don't have an account?</span>
+                        <a href="#">Sign Up</a>
                     </span>
                 </form>
 
