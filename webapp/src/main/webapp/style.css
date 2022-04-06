@@ -22,8 +22,8 @@
 }
 
 .container{
-    width: 100%;
-    min-height: 500px;
+    width: 750px;
+    min-height: 1000px;
     padding: 20px 10px;
     background: #E5E5E5;  
 }
