@@ -31,7 +31,7 @@
                     <div class="input-box">
                         <span class="label">E-mail</span>
                         <div class=" flex-r input">
-                            <input type="text" placeholder="name@abc.com">
+                            <input type="text" placeholder="enter your email">
                             <i class="fas fa-at"></i>
                         </div>
                     </div>
@@ -39,7 +39,7 @@
                     <div class="input-box">
                         <span class="label">Password</span>
                         <div class="flex-r input">
-                            <input type="password" placeholder="8+ (a, A, 1, #)">
+                            <input type="password" placeholder="enter your password">
                             <i class="fas fa-lock"></i>
                         </div>
                     </div>
