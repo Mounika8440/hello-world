@@ -10,7 +10,7 @@
 }
 
 .flex-r ,.flex-c {
-    justify-content: center;
+    justify-content: normal;
     align-items: center;
     display: flex;
 }
