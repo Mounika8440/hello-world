@@ -40,17 +40,17 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
     <div class="w3-third">
 
-    <h2>Mounika Bandari</h2>
+    
 
       <div class="w3-white w3-text-grey w3-card-4">
 
         <div class="w3-display-container">
 
-          <img src="C:\Users\Owner\OneDrive\Desktop\ASP Project\MounikaBandari.JPG" alt="MB" style="width:100%">
+          <img src="https://aboutme-mounika.s3.us-east-2.amazonaws.com/mounika.jpeg" alt="mounika" style="width:80%">
 
           <div class="w3-display-bottomleft w3-container w3-text-black">
 
-         
+            <h2>Mounika Bandari</h2>
 
           </div>
 
@@ -72,7 +72,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
 
-          <p>Scripting Languages: Python, Shell and bash </p>
+          <p>Git-Hub, Git</p>
 
           <div class="w3-light-grey w3-round-xlarge w3-small">
 
@@ -80,7 +80,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           </div>
 
-          <p>Continuous Intergration Tools: Jenkins </p>
+          <p>Angular, Javascript</p>
 
           <div class="w3-light-grey w3-round-xlarge w3-small">
 
@@ -92,7 +92,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           </div>
 
-          <p>Containerization and orchestration : Docker, Kubernetes </p>
+          <p>HTML, CSS</p>
 
           <div class="w3-light-grey w3-round-xlarge w3-small">
 
@@ -100,54 +100,36 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           </div>
 
-          <p>Configuration Management Tools : Ansible </p>
+          <p>Jira</p>
 
           <div class="w3-light-grey w3-round-xlarge w3-small">
 
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">65%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
 
           </div>
-		  
-		  <p>Version control tools : GIT, Bitbucket, GitHub </p>
 
-          <div class="w3-light-grey w3-round-xlarge w3-small">
+          <br>
 
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">60%</div>
 
-          </div>
-		
-		  <p>Build Tools : Maven </p>
-		  
-          <div class="w3-light-grey w3-round-xlarge w3-small">
 
-          <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">75%</div>
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+
+          <p>English</p>
+
+          <div class="w3-light-grey w3-round-xlarge">
+
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
 
           </div>
-		  
-		  <p>Web Servers&Application Servers: Apache, Apache Tomcat </p>
 
-          <div class="w3-light-grey w3-round-xlarge w3-small">
+          <p>Telugu</p>
 
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">70%</div>
+          <div class="w3-light-grey w3-round-xlarge">
 
-          </div>
-		  
-	      <p>Operating Systems : Ubuntu, Windows</p>
-
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">65%</div>
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:55%"></div>
 
           </div>
-		  
-	      <p>Web Technologies : HTML, CSS, JavaScript, XML, JSON</p>
 
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">80%</div>
-
-          </div>
-		  
           <br>
 
         </div>
@@ -250,10 +232,21 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
 
-  <p>My Certificattions</p>
+  <p>Find me on social media.</p>
 
-  <img src="C:\Users\Owner\OneDrive\Desktop\ASP Project\AWS1.PNG" alt="AWS1" style="width:5%">
-  <img src="C:\Users\Owner\OneDrive\Desktop\ASP Project\AWS2.PNG" alt="AWS2" style="width:5%">
+  <i class="fa fa-facebook-official w3-hover-opacity"></i>
+
+  <i class="fa fa-instagram w3-hover-opacity"></i>
+
+  <i class="fa fa-snapchat w3-hover-opacity"></i>
+
+  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+
+  <i class="fa fa-twitter w3-hover-opacity"></i>
+
+  <i class="fa fa-linkedin w3-hover-opacity"></i>
+
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 
 </footer>
 
