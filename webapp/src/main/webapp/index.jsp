@@ -48,7 +48,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           <img src="https://aboutme-mounika.s3.us-east-2.amazonaws.com/mounika.jpeg" alt="mounika" style="width:80%">
 
-          <div class="w3-display-bottomleft w3-container w3-text-black">
+          <div class="w3-display-bottomleft w3-container w3-text-black"><br>
 
             <h2>Mounika Bandari</h2>
 
