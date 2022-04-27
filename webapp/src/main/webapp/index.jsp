@@ -155,6 +155,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
 
         <div class="w3-container">
+          
+          <h5 class="w3-opacity"><b> Junior Devops Engineer / Tangensis, Dallas, USA</b></h5>
+          
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>July 2017 - <span class="w3-tag w3-teal w3-round">Dec 2020</span></h6>
+          
+          <p>  Designed and managed build and release methodologies, and Deployed code from DEV Staging QA PROD.Maintained the user accounts IAM Roles, Route 53(CNAME), VPC, RDB, MongoDB, SQS & SNS services in AWS cloud. Maintenance and creation of Jenkins jobs and extended the generic process by attaching the Jenkins Jobs, WebHook to all the current Java and Scala-based projects in GitHub. Worked on AWS cloud to provision new instances, S3 Storage Services, AWS EC2, Cloud watch services, and CI/CD pipeline management through Jenkins. Support Design and implementation of the continuous delivery pipeline, using continuous integration, continuous delivery, and automated environment provisioning.</p>
 
           <h5 class="w3-opacity"><b> Analyst-Infrastructure Operations / Virtusa, India</b></h5>
 
